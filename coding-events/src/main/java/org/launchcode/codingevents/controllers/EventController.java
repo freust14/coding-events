@@ -30,4 +30,6 @@ public class EventController {
     public String renderCreateEventForm(){
         return "events/create";
     }
+
+    //test commit type
 }
